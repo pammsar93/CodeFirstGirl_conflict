@@ -1,3 +1,3 @@
-# Creating a conflict
+# Creating second conflict
 
 How to create a conflict
